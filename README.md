@@ -10,7 +10,7 @@ This project focuses on optimizing railway and metro networks using advanced gra
  -  📊Traffic and congestion analysis  
  - ⚙️ Efficient handling of large-scale networks  
  - 🌳 Graph-based visualization logic (if implemented).
-# How It Works
+# 📌How It Works
 - Captures live video using camera  
 - Processes frames using trained ML model (e.g., YOLO)  
 - Detects objects and assigns labels  
@@ -19,7 +19,7 @@ This project focuses on optimizing railway and metro networks using advanced gra
 - Continuously processes frames in real-time  
 - Allows user to control detection via interface  
 - Updates results dynamically with each frame  
-# Built By
+# 👨‍💻Built By
 Kuldeep Bahuguna  
 B.Tech CSE| Graphic Era Hill University
 
