@@ -10,3 +10,12 @@ This project focuses on optimizing railway and metro networks using advanced gra
  -  Traffic and congestion analysis  
  -  Efficient handling of large-scale networks  
  -  Graph-based visualization logic (if implemented).
+# How It Works
+Captures live video using camera
+Processes frames using trained ML model (e.g., YOLO)
+Detects objects and assigns labels
+Converts detected labels into speech
+Outputs audio feedback to the user
+Continuously processes frames in real-time
+Allows user to control detection via interface
+Updates results dynamically with each frame
