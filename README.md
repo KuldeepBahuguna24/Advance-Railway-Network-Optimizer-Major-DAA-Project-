@@ -19,4 +19,9 @@ This project focuses on optimizing railway and metro networks using advanced gra
 - Continuously processes frames in real-time  
 - Allows user to control detection via interface  
 - Updates results dynamically with each frame  
+# Built By
+Kuldeep Bahuguna  
+B.Tech CSE| Graphic Era Hill University
+
+
 
