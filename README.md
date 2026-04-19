@@ -3,10 +3,10 @@ This project focuses on optimizing railway and metro networks using advanced gra
 # Features
   - Shortest path calculation using Dijkstra’s algorithm  
  -  All-pairs shortest path using Floyd–Warshall  
-  Minimum Spanning Tree using Kruskal’s/Prim’s algorithm  
-  Maximum flow analysis for traffic management  
-  Dynamic station and track addition/removal  
-  Route recalculation during closures or failures  
-  Traffic and congestion analysis  
-  Efficient handling of large-scale networks  
-  Graph-based visualization logic (if implemented).
+-   Minimum Spanning Tree using Kruskal’s/Prim’s algorithm  
+ -  Maximum flow analysis for traffic management  
+ -  Dynamic station and track addition/removal  
+ -  Route recalculation during closures or failures  
+ -  Traffic and congestion analysis  
+ -  Efficient handling of large-scale networks  
+ -  Graph-based visualization logic (if implemented).
