@@ -9,7 +9,7 @@ This project focuses on optimizing railway and metro networks using advanced gra
  -  Route recalculation during closures or failures  
  -  Traffic and congestion analysis  
  -  Efficient handling of large-scale networks  
- - 🌳 Graph-based visualization logic (if implemented).
+ -🌳 Graph-based visualization logic (if implemented).
 # How It Works
 - Captures live video using camera  
 - Processes frames using trained ML model (e.g., YOLO)  
